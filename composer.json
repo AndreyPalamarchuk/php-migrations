@@ -1,0 +1,15 @@
+{
+    "name": "a.palamarchuk/php-migrations",
+    "description": "Php migrations specific for Laravel projects",
+    "type": "library",
+    "require": {
+        "laravel/laravel": "^5.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Palamarchuk",
+            "email": "a.palamarchuk@corp.101xp.com"
+        }
+    ]
+}
